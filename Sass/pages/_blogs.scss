@@ -1,0 +1,10 @@
+.blogs {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    &__img {
+        img {
+            width: 650px;
+        }
+    }
+}

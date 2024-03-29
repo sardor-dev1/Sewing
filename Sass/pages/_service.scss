@@ -1,0 +1,22 @@
+.service {
+    &__card {
+        // background-color: red;
+    }
+    
+
+    &__item {
+        margin: 40px 20px;
+        border: none;
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    }
+}
+
+.sawing--image {
+    width: 100%;
+    margin: 50px;
+    img {
+        width: 100%;
+        object-fit: cover;
+        height: 400px;
+    }
+}

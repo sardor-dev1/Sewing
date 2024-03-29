@@ -44,7 +44,7 @@ $(document).ready(function () {
                     items: 1
                 },
                 1150: {
-                    items: 1
+                    items: 3
                 }
             }
         }
