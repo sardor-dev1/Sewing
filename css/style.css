@@ -345,9 +345,10 @@ main {
   font-weight: 500;
   font-size: 18px;
   transition: 0.4s;
+  border-bottom: 2px solid transparent;
 }
 .footer__item:hover {
-  color: #16A576;
+  border-color: #FFFFFF;
 }
 .footer__frame {
   display: flex;

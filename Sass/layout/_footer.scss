@@ -38,9 +38,10 @@
         font-weight: 500;
         font-size: 18px;
         transition: 0.4s;
+        border-bottom: 2px solid transparent;
     }
     &__item:hover{
-        color: $mainCl;
+        border-color: $secondaryCl;
     }
 
     &__frame{
